@@ -40,5 +40,11 @@
     "choices": ["Tinea Cruris", "Eczema Herpeticum", "Epidermodysplasia", "Cellulitis"],
     "correctIndex": 3,
     "feedback": "Tinea = Fungal, Eczema Herpeticum is a form of Herpes (Herpe), Epidermodysplasia is a genetic disease causing warts"
+  },
+  {
+    "question": "Which of these is the correct Chain of Transmission:",
+    "choices": [“Infectious Agent, Reservoir, Portal of Exit, Mode of Transmission, Portal of Entry, Susceptible Host”, “Infectious Agent, Portal of Exit, Reservoir, Portal of Entry, Mode of Transmission, Susceptible Host”, “Infectious Agent, Portal of Exit, Reservoir, Mode of Transmission, Susceptible Host”, “Infectious Agent, Reservoir, Portal of Exit, Portal of Entry, Mode of Transmission, Susceptible Host”],
+    "correctIndex": 0,
+    "feedback": "Tinea = Fungal, Eczema Herpeticum is a form of Herpes (Herpe), Epidermodysplasia is a genetic disease causing warts"
   }
 ]
