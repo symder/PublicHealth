@@ -52,5 +52,11 @@
     "choices": ["Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action", "Enable informed decisions that protect and promote health and contribute to reducing health inequalities", "Coordinate infection prevention", "Help Canadians improve and maintain their health"],
     "correctIndex": 3,
     "feedback": "Health Canada = Improve and Maintain Health, Public Health Ontario = Enable informed decision, Regional Infection Control Networks (RICN) = Coordinate Infection Prevention, Public Health Agency of Canada = Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action "
+  },
+  {
+    "question": "The removal of soil through manual or mechanical means is a definition of:",
+    "choices": ["Cleaning", "Disinfection", "Sterilization", "Sanitation"],
+    "correctIndex": 0,
+    "feedback": "Cleaning is the answer. Disinfection involves chemical/physical agents. Sterilization involves Baking or Pressurized cleaning, and Sanitation is the use of measures (eg. Cleaning/Disinfection/Sterilization) designed to promote health and prevent disease."
   }
 ]
