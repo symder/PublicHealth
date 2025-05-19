@@ -64,5 +64,11 @@
     "choices": ["Sweat", "Synovial Fluid", "Blood", "Amniotic Fluid"],
     "correctIndex": 0,
     "feedback": "Sweat is not typically a transmission method."
+  },
+  {
+    "question": "Staphylococci is an example of a:",
+    "choices": ["Virus", "Fungi", "Bacteria", "Herpes"],
+    "correctIndex": 2,
+    "feedback": "Coccus is the singular term for a sperical bacterium. Cocci is the plural form."
   }
 ]
