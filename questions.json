@@ -46,7 +46,7 @@
     "choices": ["Infectious Agent, Reservoir, Portal of Exit, Mode of Transmission, Portal of Entry, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Portal of Entry, Mode of Transmission, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Mode of Transmission, Susceptible Host", "Infectious Agent, Reservoir, Portal of Exit, Portal of Entry, Mode of Transmission, Susceptible Host"],
     "correctIndex": 0,
     "feedback": "For infection to spread, you need an INFECTION, which needs a RESERVOIR to live and grow in (eg. Human), a way to Spread of Leave the reservoir (PORTAL OF EXIT), A MODE OF TRANSPORTATION to get to a new host (Contact, Droplet, or Airborne), a way to enter the new host like a cut or breathing it in (PORTAL OF ENTRY), and a SUSCEPTIBLE HOST to infect, who may be vulnerable for a varity of reasons"
-  }
+  },
     {
     "question": "What best describes the role of Health Canada?:",
     "choices": ["Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action", "Enable informed decisions that protect and promote health and contribute to reducing health inequalities", "Coordinate infection prevention", "Help Canadians improve and maintain their health"],
