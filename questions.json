@@ -82,5 +82,11 @@
     "choices": ["True", "False"],
     "correctIndex": 1,
     "feedback": "Syndrome referes to a collection of signs and symptoms associated with a specific disease process; Systemic describes a whole-body involvement."
+  },
+   {
+    "question": "A Diagnosis is the determination of the nature of a disease, injury, or defect.",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "True. Related to this, a Prognosis is the Expected outcome of a disease or disorder."
   }
 ]
