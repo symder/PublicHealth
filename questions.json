@@ -47,7 +47,7 @@
     "correctIndex": 0,
     "feedback": "For infection to spread, you need an INFECTION, which needs a RESERVOIR to live and grow in (eg. Human), a way to Spread of Leave the reservoir (PORTAL OF EXIT), A MODE OF TRANSPORTATION to get to a new host (Contact, Droplet, or Airborne), a way to enter the new host like a cut or breathing it in (PORTAL OF ENTRY), and a SUSCEPTIBLE HOST to infect, who may be vulnerable for a varity of reasons"
   },
-    {
+  {
     "question": "What best describes the role of Health Canada?:",
     "choices": ["Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action", "Enable informed decisions that protect and promote health and contribute to reducing health inequalities", "Coordinate infection prevention", "Help Canadians improve and maintain their health"],
     "correctIndex": 3,
@@ -70,5 +70,17 @@
     "choices": ["Virus", "Fungi", "Bacteria", "Herpes"],
     "correctIndex": 2,
     "feedback": "Coccus is the singular term for a sperical bacterium. Cocci is the plural form."
+  },
+  {
+    "question": "Prevalence refers to the number of new cases of a disease during a specific period within a specific population.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "Prevalence is the number of cases that exist within a population during a specific period or moment, Incidence is the number of new cases."
+  },
+  {
+    "question": "Syndrome refers to a disease affecting the whole body",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "Syndrome referes to a collection of signs and symptoms associated with a specific disease process; Systemic describes a whole-body involvement."
   }
 ]
